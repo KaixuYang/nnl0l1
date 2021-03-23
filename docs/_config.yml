@@ -29,7 +29,7 @@ url: "https://kaixuyang.github.io" # the base hostname & protocol for your site,
 
 lsi: false
 safe: true
-source: "."
+source: "docs"
 incremental: false
 highlighter: rouge
 gist:
