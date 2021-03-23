@@ -31,7 +31,7 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
-source: "/docs"
+source: "/nnl0l1"
 gist:
   noscript: false
 kramdown:
