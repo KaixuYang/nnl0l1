@@ -22,14 +22,13 @@ title: G - A library that does nothing
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   G is a library that does nothing.
-baseurl: "nnl0l1" # the subpath of your site, e.g. /blog
+baseurl: "/nnl0l1" # the subpath of your site, e.g. /blog
 url: "https://kaixuyang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
 lsi: false
 safe: true
-source: "docs"
 incremental: false
 highlighter: rouge
 gist:
