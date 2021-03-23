@@ -31,7 +31,6 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
-source: "/"
 gist:
   noscript: false
 kramdown:
