@@ -1,7 +1,7 @@
 ﻿Greykite: A flexible, intuitive and fast forecasting library
 
 
-.. image:: ~/IdeaProjects/github/greykite/LOGO-C8.png
+.. image:: LOGO-C8.png
    :width: 600px
    :height: 400px
    :scale: 80 %
