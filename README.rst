@@ -1,9 +1,11 @@
 ﻿Greykite: A flexible, intuitive and fast forecasting library
 
 .. raw:: html
+   <embed>
    <p aligh="center">
    <img src="/LOGO-C8.png" width="300" height="200">
    </p>
+   </embed>
 
 Why Greykite?
 -------------
