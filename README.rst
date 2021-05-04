@@ -1,6 +1,8 @@
 ﻿Greykite: A flexible, intuitive and fast forecasting library
 
+<p aligh="center">
 <img src="/LOGO-C8.png" width="300" height="200">
+</p>
 
 Why Greykite?
 -------------
