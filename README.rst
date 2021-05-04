@@ -4,7 +4,7 @@
 .. image:: /LOGO-C8.png
    :width: 600px
    :height: 400px
-   :scale: 80 %
+   :scale: 60 %
    :alt: Greykite
    :align: center
 
