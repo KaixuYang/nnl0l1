@@ -3,7 +3,7 @@
 .. raw:: html
 
    <p align="center">
-   <img src="/LOGO-C8.png" width="300" height="200">
+   <img src="/LOGO-C8.png" width="450" height="300">
    </p>
 
 Why Greykite?
